@@ -4,7 +4,7 @@ In this challenge, we need to identify which customers will make a specific tran
 This is a Binary Classification Problem under Supervised Machine Learning using AUC-ROC Score for model evaluation. 
 Training data consists of 2,00,000 observations and 200 numerical anonymous predictor features, target variable and transaction_ID with no missing values. 
 Exploratory Data Analysis include visualization of descriptive features related to numerical features and outlier Analysis. Feature Engineering includes feature addition and Principal Component Analysis. 
-Finally, using Light Gradient Boosting Machine with K-Fold Stratification reaching AUC-ROC Score of 0.899.
+Finally, using Light Gradient Boosting Machine with K-Fold Stratification reaching AUC-ROC Score of 0.906.
 ### Problem source- https://www.kaggle.com/c/santander-customer-transaction-prediction
 ### My Experience with Project is described in this article published by Analytics Vidhya on Medium.
 ### Article Link- https://medium.com/analytics-vidhya/https-medium-com-kushagrarajtiwari-customer-transaction-prediction-3191c6c634dc
